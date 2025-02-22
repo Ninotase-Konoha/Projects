@@ -1,0 +1,7 @@
+Hello
+
+Week 1: Create account and make every other things (such as Jira and github) ready to use; create the place for Ascension Group
+
+Week 2: Think and make user stories to use
+
+Week 3: Start doing the backend functions like creating information for books in the system and database

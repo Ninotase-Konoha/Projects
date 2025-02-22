@@ -1,0 +1,7 @@
+db/raw_data
+**/__pycache__
+db/avatar
+db/authors
+db/instance
+db/database.db
+db/database.db-journal

@@ -1,0 +1,6 @@
+
+Week 1: Create account and groups, make the general plan about the project
+
+Week 2: Write user stories
+
+Week 3: Start doing the backend functions like creating information for books in the system and database
